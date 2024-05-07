@@ -1,0 +1,12 @@
+C:\Users\Brickshow\Desktop\PointOfSale\POS\bin\Debug\POS.exe.config
+C:\Users\Brickshow\Desktop\PointOfSale\POS\bin\Debug\POS.exe
+C:\Users\Brickshow\Desktop\PointOfSale\POS\bin\Debug\POS.pdb
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.exe
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.pdb
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.frmLogIn.resources
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.frmHomepage.resources
+C:\Users\Brickshow\Desktop\PointOfSale\POS\obj\Debug\POS.frmAddEmployee.resources
